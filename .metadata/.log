@@ -254,3 +254,30 @@ org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:56:28.382
 !MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:58:03.859
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test2.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:58:03.865
+!MESSAGE [Ljava.lang.String;@6c49862e
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:58:05.243
+!MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 23:02:53.674
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test2.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 23:02:53.679
+!MESSAGE [Ljava.lang.String;@6cf4654a
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 23:02:55.011
+!MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 23:02:55.747
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test2.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava, --write]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 23:02:55.753
+!MESSAGE [Ljava.lang.String;@30846b76
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 23:02:57.034
+!MESSAGE Command finished with return value: 0
