@@ -200,3 +200,57 @@ org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:50:33.346
 !MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:09.178
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test1.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:09.184
+!MESSAGE [Ljava.lang.String;@176fb92
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:09.371
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test2.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:09.377
+!MESSAGE [Ljava.lang.String;@398b656d
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:10.631
+!MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:10.811
+!MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:11.013
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test1.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:11.019
+!MESSAGE [Ljava.lang.String;@5d4fc083
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:11.109
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test2.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:11.115
+!MESSAGE [Ljava.lang.String;@30b6cfc7
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:12.466
+!MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:54:12.516
+!MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:56:16.659
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test1.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:56:16.665
+!MESSAGE [Ljava.lang.String;@789e7ca
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:56:18.056
+!MESSAGE Command finished with return value: 0
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:56:26.994
+!MESSAGE [pythonw, C:\Users\yhy10\AppData\Roaming\WakaTime\wakatime-master\wakatime\cli.py, --entity, D:/aaatest/testjava/src/testjava/Test1.java, --plugin, eclipse/4.11.0.v20190307-0500 eclipse-wakatime/3.0.3, --project, testjava, --write]
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:56:26.999
+!MESSAGE [Ljava.lang.String;@3398cb16
+
+!ENTRY com.wakatime.eclipse.plugin 1 0 2020-12-22 22:56:28.382
+!MESSAGE Command finished with return value: 0

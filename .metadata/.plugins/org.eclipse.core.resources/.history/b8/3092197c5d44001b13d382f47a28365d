@@ -6,7 +6,6 @@ public class Test1 {
 		
 		System.out.println("수정사항이 발생하였습니다.");
 		System.out.println("여기가 AAA 입니다.");
-		System.out.println("커밋용");
 		
 		
 	}
